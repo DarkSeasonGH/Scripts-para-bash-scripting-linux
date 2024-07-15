@@ -1,3 +1,6 @@
+IROS A LA PARTE DE PREVIEW PARA VER EL CODIGO BIEN Y QUE NO SE VEA DESORDENADO
+
+
 # Scripts-para-bash-scripting-linux
 Hola gente aqui os dejo unos scripts mios sencillos de automatizacion de tareas en linux y lo basico de shell script
 Los he hecho yo todos menos el de nmap automatizado
